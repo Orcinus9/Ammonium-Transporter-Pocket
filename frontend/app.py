@@ -1,6 +1,6 @@
 allowed_amino_acids = set("ACDEFGHIKLMNPQRSTVWY")
 
-file_path = "data/your_file_name.fasta"
+file_path = "data/unisave-entries-download=true&format=fasta&uniqueSequences=true&versions=87.fasta"
 
 header = ""
 sequence_lines = []
